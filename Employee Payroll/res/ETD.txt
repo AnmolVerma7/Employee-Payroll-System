@@ -1,0 +1,4 @@
+20101 Arnold Finance S 78000.0 168.0
+20112 Bernie Personnel H 20.0 60.0
+20123 Carole Research C 70.0 30.0
+42069 Rajan Research S 73000.0 148.0
